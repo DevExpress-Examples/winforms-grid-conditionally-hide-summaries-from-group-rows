@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ConditionallyHideSumsInGroupRows/Form1.cs) (VB: [Form1.vb](./VB/ConditionallyHideSumsInGroupRows/Form1.vb))
+* [Program.cs](./CS/ConditionallyHideSumsInGroupRows/Program.cs) (VB: [Program.vb](./VB/ConditionallyHideSumsInGroupRows/Program.vb))
+<!-- default file list end -->
 # How to conditionally hide summaries in group rows
 
 
