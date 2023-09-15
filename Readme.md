@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WinForms Data Grid - Hide summaries in group rows based on a specific condition
+# WinForms Data Grid - Show/hide summaries in group rows based on a specific condition
 
 This example handles the [CustomDrawGroupRow](https://docs.devexpress.com/WindowsForms/DevExpress.XtraGrid.Views.Grid.GridView.CustomDrawGroupRow) event to update text in group rows (show/hide certain summaries) based on a condition. The Max summary is displayed for group rows where Discontinued is True. The Min summary is displayed in rows with Discontinued set to False.
 
