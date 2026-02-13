@@ -20,7 +20,7 @@ This example handles the [CustomDrawGroupRow](https://docs.devexpress.com/Window
 * [Working with Summaries in Code - Custom Summaries](https://docs.devexpress.com/WindowsForms/701/controls-and-libraries/data-grid/summaries/working-with-summaries-in-code-custom-summaries)
 * [Custom Painting Basics](https://docs.devexpress.com/WindowsForms/762/controls-and-libraries/data-grid/appearance-and-conditional-formatting/custom-painting/custom-painting-basics)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-conditionally-hide-summaries-from-group-rows&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-conditionally-hide-summaries-from-group-rows&~~~was_helpful=no)
 
